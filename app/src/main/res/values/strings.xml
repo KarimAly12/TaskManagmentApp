@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskManagment</string>
+    <string name ="google_maps_api_key">AIzaSyDe7ZHa4pJNM0PPaEG9NmboIt6vSPlqTaU</string>
+    <string name="homeScreen">Home</string>
+    <string name="addTask">Add Task</string>
+    <string name="calendar">Calendar</string>
+
+
+</resources>
